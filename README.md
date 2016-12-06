@@ -17,14 +17,11 @@ When a user clicks on the "Add A Note" button
 
 
 ### Feature Requests
-
-- Create a button, which when clicked lets the user add a note
-- Create a counter that keeps track of number of notes
-- The user likes adding notes, but from time to time they want to come back and edit these notes. Make these notes editable, maybe what you need is content editable attribute!!!!
 - User needs to delete some notes, when they become outdated. Add a "X" on the notes so they can be disposed when the "X" is clicked
 
 ### Bonus
-- Add a datetime stamp for the note, when it is created, this needs to be updated everytime the note is updated
+- Add a datetime stamp for the note, when it is created
+- When a user updates a note the datetime should change
 
 
 
